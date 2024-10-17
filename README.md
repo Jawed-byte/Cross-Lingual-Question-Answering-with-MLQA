@@ -141,13 +141,13 @@ languages.
 - **Result:** The scores are aggregated and stored as CSV files for further analysis:
 
     - **mBert:** results_zero_shot_mbert.csv
-    ![Logo](mBert_results.png)
+    ![Logo](images/mBert_results.png)
 
     - **XLM-R Base:** results_zero_shot_xlm_r.csv
-    ![Logo](XLM-R Base results.png)
+    ![Logo](images/XLM-R Base results.png)
 
     - **XLM-R Large:** results_zero_shot_xlm_r_large.csv
-    ![Logo](XLM-R Large Results.png)
+    ![Logo](images/XLM-R Large Results.png)
 
 ### 6.2 Performance Analysis of Baseline Models
 
